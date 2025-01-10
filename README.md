@@ -1,5 +1,4 @@
 # Data-Science
-Machine Learning 
 Project Overview
 Project Name: Customer Segmentation Using K-Means Clustering
 Author: Ntiyiso Ndhlovu
